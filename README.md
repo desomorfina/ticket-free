@@ -99,8 +99,8 @@ Comandos (/) registrados com sucesso.
 
 ```bash
 /
-├── .env                 # Variáveis de ambiente (NÃO SUBA NO GITHUB)
-├── .gitignore           # Ignora node_modules
+├── .env                 # Variáveis de ambiente (token etc)
+├── .gitignore           # Ignora node_modules (se for vc subir pro github, se não pode apagar ele)
 ├── index.js             # Arquivo principal
 ├── src
 │   ├── commands         # Comandos Slash (/painel, /config)
